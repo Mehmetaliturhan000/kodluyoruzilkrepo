@@ -1,15 +1,15 @@
-#Kodluyoruz İlk Repo (Patika.dev)
+# Kodluyoruz İlk Repo (Patika.dev)
 Bu repo Kodluyoruz Front-End eğitiminde oluşturdğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
 
 ![](kodluyoruzilkrepo.PNG)
 
 
-#Installation
+# Installation
 Öncelikle projeyi klonlayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 > git clone https://github.com/Mehmetaliturhan000/kodluyoruzilkrepo.git
 
-#Usage
+# Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için
@@ -17,8 +17,8 @@ Linux için
 >cd kodluyoruzilkrepo
 code .
 
-#Contribuiting 
+# Contribuiting 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-#License
-My favorite search engine is [MIT](https://choosealicense.com/licenses/mit/).
+# License
+[MIT](https://choosealicense.com/licenses/mit/)
