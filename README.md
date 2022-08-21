@@ -1,4 +1,4 @@
-#Kodluyoruz İlk Repo
+#Kodluyoruz İlk Repo (Patika.dev)
 Bu repo Kodluyoruz Front-End eğitiminde oluşturdğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
 
 ![](kodluyoruzilkrepo.PNG)
